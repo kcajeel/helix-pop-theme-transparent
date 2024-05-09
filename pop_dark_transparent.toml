@@ -12,12 +12,12 @@ error = { fg = 'brownD', bg = 'redE', modifiers = ['bold'] }
 'diagnostic.hint.underline' = { color = 'yellowH', style = 'curl' } 
 'diagnostic.warning.underline' = { color = 'orangeW', style = 'curl' } 
 'diagnostic.error.underline' = { color = 'redE', style = 'curl' } 
-'ui.background' = { bg = '' }
-'ui.window' = { bg = 'brownH', fg = 'brownD' } 
+'ui.background' = { }
+'ui.window' = { fg = 'brownD' } 
 'ui.gutter' = { bg = '' }
 'ui.text' = { fg = 'greyT' }
 'ui.text.focus' = { fg = 'orangeN' }
-'ui.text.info' = { fg = 'orangeH', bg = 'brownH' }
+'ui.text.info' = { fg = 'orangeH' }
 'ui.cursor' = { fg = 'greyD', bg = 'orangeY' }
 'ui.cursor.insert' = { fg = 'orangeN', bg = 'orangeN' }
 'ui.cursor.select' = { fg = 'black', bg = 'orangeN' }
@@ -30,16 +30,16 @@ error = { fg = 'brownD', bg = 'redE', modifiers = ['bold'] }
 'ui.cursorline' = { bg = 'brownH' }
 'ui.statusline' = { fg = 'greyT', bg = 'brownD' }
 'ui.statusline.inactive' = { fg = 'greyT', bg = 'brownN' }
-'ui.help' = { fg = 'greyT', bg = 'brownD' }
+'ui.help' = { fg = 'greyT' }
 'ui.highlight' = { bg = 'brownH' }
 'ui.virtual' = { fg = 'brownV' }
 'ui.virtual.ruler' = { bg = 'brownR' }
 'ui.virtual.whitespace' = { fg = 'brownV' }
 'ui.virtual.indent-guide' = { fg = 'brownR' }
-'ui.menu' = { fg = 'greyT', bg = 'brownD' }
-'ui.menu.selected' = { fg = 'orangeH', bg = 'brownH' }
-'ui.popup' = { bg = 'brownD' }
-'ui.popup.info' = { bg = 'brownH', fg = 'greyT' }
+'ui.menu' = { fg = 'greyT' }
+'ui.menu.selected' = { fg = 'orangeH' }
+'ui.popup' = { }
+'ui.popup.info' = { fg = 'greyT' }
 tag = { fg = 'blueH' }
 label = { fg = 'greenS' }
 module = { bg = 'orangeL' }
