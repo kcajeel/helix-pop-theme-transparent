@@ -4,5 +4,5 @@ This theme is based on [Nathaniel Webb's VSCodePopTheme](https://github.com/Arti
 
 **Preview:**
 
-![helix-pop-dark-theme-preview](helix-pop-dark-theme-preview.png)
-
+![helix-pop-dark-transparent-theme-preview](theme_preview.png)
+- yes my setup is batman themed :D
